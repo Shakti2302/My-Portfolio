@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.a1129faf.css",
-    "main.js": "/my-app/static/js/main.d9c6d24c.js",
-    "static/media/todo.png": "/my-app/static/media/todo.9948051847bd482e9698.png",
-    "static/media/ecommerce.png": "/my-app/static/media/ecommerce.6fe584806b826b020791.png",
-    "static/media/profile.jpg": "/my-app/static/media/profile.72e29728f8a5f5301da5.jpg",
-    "static/media/Shakti-CV.pdf": "/my-app/static/media/Shakti-CV.ada2cfd21fcce1818138.pdf",
-    "static/media/findten.png": "/my-app/static/media/findten.b3a582cd2b20de04b26c.png",
-    "index.html": "/my-app/index.html",
-    "main.a1129faf.css.map": "/my-app/static/css/main.a1129faf.css.map",
-    "main.d9c6d24c.js.map": "/my-app/static/js/main.d9c6d24c.js.map"
+    "main.css": "/My-Portfolio/static/css/main.b30c7148.css",
+    "main.js": "/My-Portfolio/static/js/main.a5a04e66.js",
+    "static/media/todo.png": "/My-Portfolio/static/media/todo.9948051847bd482e9698.png",
+    "static/media/ecommerce.png": "/My-Portfolio/static/media/ecommerce.6fe584806b826b020791.png",
+    "static/media/profile.jpg": "/My-Portfolio/static/media/profile.72e29728f8a5f5301da5.jpg",
+    "static/media/Shakti-CV.pdf": "/My-Portfolio/static/media/Shakti-CV.ada2cfd21fcce1818138.pdf",
+    "static/media/findten.png": "/My-Portfolio/static/media/findten.b3a582cd2b20de04b26c.png",
+    "index.html": "/My-Portfolio/index.html",
+    "main.b30c7148.css.map": "/My-Portfolio/static/css/main.b30c7148.css.map",
+    "main.a5a04e66.js.map": "/My-Portfolio/static/js/main.a5a04e66.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1129faf.css",
-    "static/js/main.d9c6d24c.js"
+    "static/css/main.b30c7148.css",
+    "static/js/main.a5a04e66.js"
   ]
 }
